@@ -1,0 +1,37 @@
+body{
+	background-color:#ccffcc;
+	color: #2F4F4F;
+	font-family: Gill Sans,Gill Sans MT,Calibri,sans-serif; 
+	font-size: 14px;
+}
+
+
+
+h1{
+	font-size : 70px;
+}
+.space_out{
+	word-spacing: 40px;
+}
+.right{
+	float:right;
+}
+.italics{
+	font-style: italic;
+}
+
+hr{
+	border-color: #2F4F4F;
+}
+
+ul.a{
+	list-style-type:circle;
+	list-style-position: outside;
+}
+ul.b{
+	font-style: italic;
+	list-style-position:inside;
+}
+li{
+	margin:-10px 0px;
+}
