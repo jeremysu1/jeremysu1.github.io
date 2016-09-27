@@ -10,6 +10,10 @@ body{
 h1{
 	font-size : 70px;
 }
+h3{
+	padding-left: 40px;
+	font-size: 20px;
+}
 .space_out{
 	word-spacing: 40px;
 }
@@ -27,11 +31,13 @@ hr{
 ul.a{
 	list-style-type:circle;
 	list-style-position: outside;
+	font-size: 25px;
 }
 ul.b{
 	font-style: italic;
 	list-style-position:inside;
+	font-size:20px;
 }
 li{
-	margin:-10px 0px;
+	margin:10px 0px;
 }
